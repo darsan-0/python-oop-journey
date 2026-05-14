@@ -11,5 +11,5 @@ print(Car2.year)
 print(Car2.color)
 print(Car2.for_sale)
 print()
-Car1.drive()
+Car1.drive() #Calling the method.
 Car1.stop()
