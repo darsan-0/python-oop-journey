@@ -11,7 +11,7 @@ class Car:
 Car1 = Car("Mustang", 2026, "Red", False)
 
 #case1
-print(Car1) #output: <__main__.Car object at 0x000001AC84791210> memory addres of the Car1 object
+print(Car1) #output: <__main__.Car object at 0x000001AC84791210> memory addres of the Car1 object.
 #case2
 print(Car1.model) # " . " is Attribute acces operator ,output: Mustang
 print(Car1.year)
